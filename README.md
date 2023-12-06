@@ -1,10 +1,13 @@
 # AnalyzingNeuralTimeSeries_Python_Implimentation
 The python codes for the Analyzing Neural Time Series Data, Mike X Cohen (2012) MIT Press This is the code that accompanies the book. https://www.amazon.com/Analyzing-Neural-Time-Data-Practice/dp/0262019876
 
+## The original MATLAB codes by Cohen
+https://github.com/mikexcohen/AnalyzingNeuralTimeSeries.git
+
 ## Summary:
 Analyzing Neural Time Series Data by Mike X Cohen is an extremely educational book to teach you the conceptual, mathematical, and implementational (but sadly only via Matlab programming) bases of time-, time-frequency-, and synchonization-based analyses of MEG, EEG, and LFP recordings from humans and nonhuman animals.
 
-Despite of being a perfect textbook, some might think you prefer Python codes rather than expensive MATLAB language.
+Despite of being a perfect textbook, some might have some difficulties in implementation as it only supports MATLAB--insanely expensive language. Here, I aim to implement the available MATLAB code into python.
 
 Feel free to use my codes to help your study!!
 
